@@ -1,0 +1,3 @@
+arb-dir: /Users/sofiyakarunanithi/Desktop/flutter_Apps/localisation/lib/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart 

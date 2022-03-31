@@ -1,0 +1,12 @@
+{
+    "profile": "Profil",
+    "firstName": "Prénom",
+    "lastName": "nom de famille",
+    "addressFirst": "Adresse 1",
+    "addressSecond": "Adresse 2",
+    "city": "Ville",
+    "province": "Province",
+    "state": "État",
+    "pinCode": "Code PIN",
+    "mobileNumber": "Numéro de portable"
+}
